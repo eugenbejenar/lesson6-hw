@@ -12,4 +12,7 @@
         background-color: black;
         color: white;
     }
+    .large-name {
+        @include text-d ();
+    }
 }

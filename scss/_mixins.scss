@@ -14,3 +14,11 @@
         width: 60%;
     }
 }
+
+@mixin text-d {
+    font: {
+        family: Arial;
+        weight: bold;
+        size: 13px;
+    }
+}
